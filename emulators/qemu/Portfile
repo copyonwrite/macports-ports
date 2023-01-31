@@ -25,9 +25,9 @@ homepage                https://www.qemu.org
 master_sites            https://download.qemu.org/
 use_xz                  yes
 
-checksums           rmd160  50661dd45f91d900241e0e6b919140a6b8a2b2cf \
-                    sha256  5b49ce2687744dad494ae90a898c52204a3406e84d072482a1e1be854eeb2157 \
-                    size    122408576
+checksums               rmd160  50661dd45f91d900241e0e6b919140a6b8a2b2cf \
+                        sha256  5b49ce2687744dad494ae90a898c52204a3406e84d072482a1e1be854eeb2157 \
+                        size    122408576
 
 depends_build           port:texinfo \
                         port:libtool \
